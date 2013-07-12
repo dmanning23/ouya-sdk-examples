@@ -1,0 +1,6 @@
+[submodule "MonoGame/externals/MonoGame"]
+	path = MonoGame/externals/MonoGame
+	url = https://github.com/dmanning23/MonoGame.git
+[submodule "MonoGame/externals/ouya-csharp"]
+	path = MonoGame/externals/ouya-csharp
+	url = https://github.com/dmanning23/ouya-csharp.git
